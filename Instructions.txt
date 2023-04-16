@@ -1,0 +1,32 @@
+Contributions
+
+Rhyme Rubayet 
+
+Nahim Hossain Shohan 
+
+MD. Jidanul Hakim Jitu 
+
+Nusrat Jahan Zerin
+
+
+
+
+Instructions
+
+
+## Keyboard press
+Press 'a' for start time travel for the actor;
+Press 'd' to step backward for the actor;
+Press 's' to stop actor;
+Press 'r' to reset the tank;
+Press 't' to stop the tank;
+
+## Mouse click
+Scene-1
+Click 'Left' Button to speed up army;
+Click 'Right' Button to speed up tank;
+
+Scene-2
+
+Click 'Left' Button to move ships to shore;
+Click 'Right' Button to move ships away;
